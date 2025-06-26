@@ -33,7 +33,6 @@ Leverage **data analytics** to support **Sustainable Development Goal 2 – Zero
 ## 🛠️ Technologies Used
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
 - Jupyter Notebook  
-- Tableau / Power BI  
 - SQL  
 - Git & GitHub
 
